@@ -1,0 +1,58 @@
+track_id,class,first_frame,last_frame,observed_angle_degrees,permitted_direction,classification,mean_detection_confidence
+1,motorcycle,3,19,293.55,south,wrong-way,0.2757
+8,car,14,59,20.85,south,wrong-way,0.3771
+11,car,35,50,293.48,south,wrong-way,0.2706
+16,car,61,64,279.87,south,wrong-way,0.4126
+17,car,66,75,334.8,south,wrong-way,0.1621
+19,car,85,96,234.25,south,wrong-way,0.4
+23,motorcycle,91,119,289.25,south,wrong-way,0.2822
+27,motorcycle,100,104,291.8,south,wrong-way,0.266
+28,car,101,165,319.93,south,wrong-way,0.2663
+30,car,107,147,309.6,south,wrong-way,0.2553
+46,car,212,274,319.86,south,wrong-way,0.2691
+51,motorcycle,254,282,303.13,south,wrong-way,0.2844
+58,car,306,437,315.88,south,wrong-way,0.2357
+59,car,307,694,278.97,south,wrong-way,0.5456
+76,car,412,615,116.57,south,insufficient movement,0.5643
+80,motorcycle,417,421,283.45,south,wrong-way,0.4062
+98,car,502,528,296.57,south,wrong-way,0.3252
+103,motorcycle,540,597,317.28,south,wrong-way,0.2265
+108,motorcycle,547,550,101.31,south,normal direction,0.2592
+126,car,580,596,32.01,south,wrong-way,0.3788
+130,motorcycle,582,607,308.28,south,wrong-way,0.2876
+152,car,598,610,91.97,south,normal direction,0.3833
+153,car,599,642,256.76,south,insufficient movement,0.2555
+171,motorcycle,617,654,310.06,south,wrong-way,0.2377
+173,car,632,1104,271.04,south,wrong-way,0.5578
+182,motorcycle,647,648,,south,insufficient movement,0.2926
+188,car,652,863,326.75,south,wrong-way,0.5242
+194,car,663,755,356.63,south,insufficient movement,0.3766
+199,car,727,731,318.81,south,wrong-way,0.4433
+211,car,748,1012,292.93,south,wrong-way,0.4256
+225,car,798,799,,south,insufficient movement,0.3332
+231,car,818,825,293.2,south,wrong-way,0.2305
+245,motorcycle,854,914,279.37,south,wrong-way,0.3344
+261,car,874,883,,south,insufficient movement,0.2424
+273,car,899,1216,275.08,south,wrong-way,0.3867
+275,motorcycle,904,923,301.96,south,wrong-way,0.2036
+284,car,942,981,293.75,south,wrong-way,0.4484
+304,car,1040,1049,,south,insufficient movement,0.1763
+317,car,1084,1101,,south,insufficient movement,0.4141
+321,motorcycle,1086,1124,285.23,south,wrong-way,0.243
+323,motorcycle,1086,1091,285.52,south,wrong-way,0.2065
+331,motorcycle,1097,1131,304.56,south,wrong-way,0.2638
+332,car,1097,1383,278.49,south,wrong-way,0.7221
+342,motorcycle,1191,1195,280.95,south,wrong-way,0.2282
+349,car,1207,1312,255.12,south,wrong-way,0.3215
+366,car,1223,1383,255.26,south,wrong-way,0.5626
+373,motorcycle,1225,1242,311.19,south,wrong-way,0.26
+375,car,1227,1334,137.29,south,insufficient movement,0.2886
+388,motorcycle,1254,1257,278.62,south,wrong-way,0.3118
+414,motorcycle,1291,1328,305.89,south,wrong-way,0.2342
+430,motorcycle,1324,1325,,south,insufficient movement,0.388
+439,car,1332,1383,307.57,south,wrong-way,0.3025
+448,motorcycle,1343,1354,312.48,south,wrong-way,0.3499
+449,motorcycle,1343,1355,357.14,south,wrong-way,0.3776
+451,motorcycle,1344,1348,264.81,south,insufficient movement,0.2969
+454,motorcycle,1344,1345,63.43,south,normal direction,0.3325
+460,motorcycle,1358,1383,3.01,south,wrong-way,0.3919
